@@ -1,0 +1,29 @@
+.ticket {
+  width: 1000px; 
+  object-position: 80% 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navb {
+  background-color: #2196F3; /* Warna latar belakang biru */
+  color: #fff; /* Warna teks putih */
+  padding: 15px;
+}
+.judul{
+  margin: auto;
+}
+
+.conten{
+  background-color: #fff; /* Warna latar belakang biru lebih gelap */
+  padding: 20px;
+}
+
+.ticket {
+  background-color: #fff; /* Warna latar belakang biru lebih gelap */
+
+  border-radius: 10px;
+  color: black;
+}

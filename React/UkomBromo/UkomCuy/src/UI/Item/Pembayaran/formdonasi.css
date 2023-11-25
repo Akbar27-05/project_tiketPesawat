@@ -1,0 +1,31 @@
+#carddonasi:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+#carddonasi:checked {
+  background-color: blue;
+  color: white;
+}
+
+#card {
+  width: 700px;
+}
+
+.fotodonasi .bi {
+  position: absolute;
+  top: 2%;
+  left: 3%;
+  color: white;
+  cursor: pointer;
+} 
+
+.progress {
+  height: 10px;
+  border-radius: 10px
+}
+
+.progress div {
+  background-color: #0275d8
+}

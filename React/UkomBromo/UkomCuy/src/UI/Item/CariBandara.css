@@ -1,0 +1,57 @@
+.Awalsendiri {
+  width: 22rem;
+  background-color: blue;
+  margin-left: 1rem;
+  height: 5rem;
+  border-radius: 5px; 
+}
+
+.tujuan {
+  display: flex;
+  list-style-type: none;
+}
+.keberangkatan {
+  display: flex;
+  list-style-type: none;
+}
+
+.awal {
+  margin-top: 10px;
+  margin-left: -15px;
+}
+
+.akhir {
+  margin-top: 10px;
+}
+
+.tanggal {
+  margin-top: -10px;
+  margin-left: -15px;
+}
+
+.penumpang {
+  margin-top: -10px;
+}
+
+.PanahAtas {
+  margin-left: 10px;
+  margin-right: 14px;
+}
+
+.Panah {
+  margin-left: 10px;
+  margin-right: 14px;
+}
+
+.filter {
+  display: flex;
+  margin-left: 40rem;
+  margin-top: -90px;
+  height: 6rem;
+}
+
+select {
+  width: 18rem;
+  height: 2rem;
+  border: 1px solid black;
+}
